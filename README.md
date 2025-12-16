@@ -1,6 +1,6 @@
 # App-repo
 
-ead – React Native mobile App built with Expo.
+ead – React Native mobile App built with Expo/EAS build for Android.
 
 Beschreibung: Eine mobile App die ich im Rahmen meiner Maturaarbeit entwickelt habe. Sie besteht aus drei Seiten mit der Hauptfunktion einer Seite mit Ortsanzeige und Filter und einer Karte.
 
