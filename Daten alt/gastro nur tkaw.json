@@ -1,0 +1,367 @@
+[
+  {
+    "name": "Stamp Burgers",
+    "adresse": "Brandschenkestrasse 5, 8001, Zürich",
+    "preis": null,
+    "erhältlich": [
+      "vegetarisch"
+    ],
+    "website": "http://www.stampburgers.ch/",
+    "notes": "Saftige, handgemachte Burger aus frischen, lokalen Zutaten.",
+    "geoCoordinates": {
+      "latitude": 47.369789860196,
+      "longitude": 8.5341422711639
+    }
+  },
+  {
+    "name": "Sando",
+    "adresse": "Niederdorfstrasse 60, 8001, Zürich",
+    "preis": null,
+    "erhältlich": [
+      "vegetarisch"
+    ],
+    "website": "https://sandorestaurant.ch/",
+    "notes": "Japanisch inspirierte Smashburger mit Teriyaki, umami-reichen Zutaten und fluffigen Buns.",
+    "geoCoordinates": {
+      "latitude": 47.375452447713,
+      "longitude": 8.5439713
+    }
+  },
+
+  {
+    "name": "Crêperie - All about crêpe",
+    "adresse": "Seestrasse 17, 8002, Zürich",
+    "preis": null,
+    "erhältlich": [
+      "vegan",
+      "vegetarisch"
+    ],
+    "website": "https://allaboutcrepe.ch/",
+    "notes": "Herzhafte oder süsse Crêpes, inspiriert von französischer Tradition – perfekt für unterwegs. ",
+    "geoCoordinates": {
+      "latitude": 47.365331951001,
+      "longitude": 8.5316139539751
+    }
+  },
+  {
+    "name": "Bill’s Burger",
+    "adresse": "Hardturmstrasse 161, 8005, Zürich",
+    "preis": null,
+    "erhältlich": [
+      "vegan"
+    ],
+    "website": "https://www.billsburger.ch/",
+    "notes": "Saftige Burger und Hot Sandwiches sorgen im Westen Zürichs für die perfekte Mittagspause.",
+    "geoCoordinates": {
+      "latitude": 47.39338,
+      "longitude": 8.511654
+    }
+  },
+  {
+    "name": "Veganitas",
+    "adresse": "Brauerstrasse 30, 8004, Zürich",
+    "preis": null,
+    "erhältlich": [
+      "vegan"
+    ],
+    "website": "https://www.veganitas.com/",
+    "notes": "Fast Food geniessen und trotzdem nicht auf Nachhaltigkeit verzichten: Das ist mit den 100% pflanzenbasierten «Veganitas» lecker locker möglich.",
+    "geoCoordinates": {
+      "latitude": 47.377582,
+      "longitude": 8.527679
+    }
+  },
+  {
+    "name": "Bakery Bakery",
+    "adresse": "Museumstrasse 1, 8001, Zürich",
+    "preis": null,
+    "erhältlich": [
+      "vegan"
+    ],
+    "website": "https://www.bakerybakery.ch/",
+    "notes": "Vom veganen Bagel bis zur Crèmeschnitte: Hier werden alle fündig, die Lust auf komplett pflanzliche Backwaren haben.",
+    "geoCoordinates": {
+      "latitude": 47.378436,
+      "longitude": 8.539962
+    }
+  },
+  {
+    "name": "VITO",
+    "adresse": "Europaallee 4, 8004, Zürich",
+    "preis": null,
+    "erhältlich": [
+      "vegan",
+      "vegetarisch"
+    ],
+    "website": "https://www.vito.ch/europaallee",
+    "notes": "Lecker, effizient und inspirierend geht es bei VITO zu und her: Hier gibt’s beste Pizza; stückweise oder als «Ganze».",
+    "geoCoordinates": {
+      "latitude": 47.378345,
+      "longitude": 8.535776
+    }
+  },
+  {
+    "name": "Bagel Boys",
+    "adresse": "Dialogweg 11, 8050, Zürich",
+    "preis": null,
+    "erhältlich": [
+      "vegan",
+      "vegetarisch"
+    ],
+    "website": "http://mybagel.ch/page/restaurant",
+    "notes": "Ganz nach dem Vorbild der berühmten New Yorker Bagelshops servieren auch die Bagel Boys das runde Gebäck mit Loch in diversen Varianten.",
+    "geoCoordinates": {
+      "latitude": 47.414053,
+      "longitude": 8.55923
+    }
+  },
+  {
+    "name": "The Sacred Restaurant mit Vegelateria",
+    "adresse": "Müllerstrasse 64, 8004, Zürich",
+    "preis": null,
+    "erhältlich": [
+      "vegan"
+    ],
+    "website": "https://www.vegelateria.ch",
+    "notes": "Auf Fleisch verzichten, heisst nicht auf Geschmack verzichten: Im Herzen des Langstrasse-Quartiers werden geschmackvolle vegane Leckereien zubereitet.",
+    "geoCoordinates": {
+      "latitude": 47.376062,
+      "longitude": 8.52887
+    }
+  },
+  {
+    "name": "Michelle’s Cupcakes ",
+    "adresse": "Luisenstrasse 19, 8005, Zürich",
+    "preis": null,
+    "erhältlich": [
+      "vegan"
+    ],
+    "website": "https://www.michellescupcakes.ch/",
+    "notes": "Michelle verzückt ihre Gäste mit hausgemachten Cupcakes und anderen süssen Köstlichkeiten.",
+    "geoCoordinates": {
+      "latitude": 47.383311,
+      "longitude": 8.529103
+    }
+  },
+  {
+    "name": "Chez Nhan Deli",
+    "adresse": "Uetlibergstrasse 22, 8045, Zürich",
+    "preis": null,
+    "erhältlich": [
+      "vegetarisch"
+    ],
+    "website": "https://www.cheznhan.ch",
+    "notes": "Für authentisch vietnamesische Küche pilgern hungrige Mäuler zur Schmiede Wiedikon, wo im Chez Nhan Deli feinste Suppen und Leckereien serviert werden.",
+    "geoCoordinates": {
+      "latitude": 47.364542,
+      "longitude": 8.520783
+    }
+  },
+  {
+    "name": "Konditorei Confiserie Caredda",
+    "adresse": "Josefstrasse 119, 8005, Zürich",
+    "preis": null,
+    "erhältlich": [
+      "vegan"
+    ],
+    "website": "https://www.konditorei-caredda.ch/",
+    "notes": "Italienische Bäckerei und Konditorei mit grosser Auswahl an Süsses sowie Herzhaftes, Sandwiches und Brote",
+    "geoCoordinates": {
+      "latitude": 47.383795,
+      "longitude": 8.52919
+    }
+  }, 
+  {
+    "name": "Stripped Pizza",
+    "adresse": "Talacker 41, 8001, Zürich",
+    "preis": null,
+    "erhältlich": [
+      "vegan", 
+      "vegetarisch"
+    ],
+    "website": "https://stripped.pizza",
+    "notes": "Pizza und Bowls, kreative Kreationen mit frischen Zutaten",
+    "geoCoordinates": {
+      "latitude": 47.370713,
+      "longitude": 8.536681
+    }
+  },
+  {
+    "name": "Vegitat Cigköfte",
+    "adresse": "Langstrasse 192, 8005, Zürich",
+    "preis": null,
+    "erhältlich": [
+      "vegan",
+      "vegetarisch"
+    ],
+    "website": "https://vegitat.ch/",
+    "notes": "Vegane Dürüm, Sandwiches, Bowls",
+    "geoCoordinates": {
+      "latitude": 47.3821431,
+      "longitude": 8.5295539
+    }
+  },
+  {
+    "name": "mit&ohne Lochergut",
+    "adresse": "Badenerstrasse 248, 8004, Zürich",
+    "preis": null,
+    "erhältlich": [
+      "vegetarisch"
+    ],
+    "website": "https://www.mitundohne.com/",
+    "notes": "Sehr guter Döner mit hausgemachtem Brot,  vegane Option mit Falafel verfügbar",
+    "geoCoordinates": {
+      "latitude": 47.369911,
+      "longitude": 8.520758
+    }
+  },
+  {
+    "name": "mit&ohne Hauptbahnhof",
+    "adresse": "Bahnhofplatz, 8001, Zürich",
+    "preis": null,
+    "erhältlich": [
+      "vegetarisch"
+    ],
+    "website": "https://www.mitundohne.com/",
+    "notes": "Sehr guter Döner mit hausgemachtem Brot, vegane Option mit Falafel verfügbar",
+    "geoCoordinates": {
+      "latitude": 47.3769,
+      "longitude": 8.5417
+    }
+  },
+  {
+    "name": "Tremonte Wiedikon",
+    "adresse": "Birmensdorferstrasse 129, 8003 Zürich",
+    "preis": null,
+    "erhältlich": [
+      "vegetarisch",
+      "vegan"
+    ],
+    "website": "https://www.tremonte.zuerich/wiedikon",
+    "notes": "Take Away, frisch belegte Focacce, Pasta und Gemüse",
+    "geoCoordinates": {
+      "latitude": 47.3699,
+      "longitude": 8.5208
+    }
+  },
+  {
+    "name": "Zuki's",
+    "adresse": "Morgartenstrasse 12, 8004 Zürich",
+    "preis": null,
+    "erhältlich": [
+      "vegetarisch",
+      "vegan"
+    ],
+    "website": "https://www.zukis.ch/food/",
+    "notes": "Take Away, Anatolische Spezialitäten, Suppen",
+    "geoCoordinates": {
+      "latitude": 47.371333,
+      "longitude": 8.529500
+    }
+  },
+  {
+    "name": "Al Mouchtar",
+    "adresse": "Hafnerstrasse 13, 8005, Zürich",
+    "preis": null,
+    "erhältlich": [
+      "vegetarisch"
+    ],
+    "website": "https://www.smood.ch/de/store/al-mouchtar-opfikon",
+    "notes": "Authentisch Libanesisch, Poulet Schawarma und vegetarische Option mit Falafel verfügbar",
+    "geoCoordinates": {
+      "latitude": 47.3809037,
+      "longitude": 8.5347378
+    }
+  },
+  {
+    "name": "Simply Soup Hallwyl",
+    "adresse": "Hallwylstrasse 24, 8004 Zürich",
+    "preis": null,
+    "erhältlich": [
+      "vegetarisch",
+      "vegan"
+    ],
+    "website": "https://simplysoup.ch/",
+    "notes": "Restaurant mit abwechselnden, gesunden Wochenmenüs, Suppen und Currys",
+    "geoCoordinates": {
+      "latitude": 47.3722,
+      "longitude": 8.5284
+    }
+  }, 
+  {
+      "name": "Simply Soup Kalkbreite",
+      "adresse": "Kalkbreitestrasse 10, 8003 Zürich",
+      "preis": null,
+      "erhältlich": [
+        "vegetarisch",
+        "vegan"
+      ],
+      "website": "https://simplysoup.ch/",
+      "notes": "Restaurant mit abwechselnden, gesunden Wochenmenüs, Suppen und Currys",
+      "geoCoordinates": {
+        "latitude": 47.37408,
+        "longitude": 8.52050
+      }
+  }, 
+  {
+      "name": "Les Delices D'Orient",
+      "adresse": "Aemtlerstrasse 18, 8003 Zürich",
+      "preis": null,
+      "erhältlich": [
+        "vegetarisch",
+        "vegan"
+      ],
+      "website": "https://delicesdorient.ch/menu/",
+      "notes": "Syrisches&Libanesisches Restaurant und Take Away, Mezzes, Hummus, Falafel, Schawarma",
+      "geoCoordinates": {
+        "latitude": 47.37163,
+        "longitude": 8.51524
+      } 
+  }, 
+  {
+      "name": "Klara's Kitchen Café&Restaurant",
+      "adresse": "Weinbergstrasse 68, 8006, Zürich",
+      "preis": null,
+      "erhältlich": [
+        "vegetarisch",
+        "vegan"
+      ],
+      "website": "https://www.klaraskitchen.ch/",
+      "notes": "Süsses Café&Take Away mit grosser Auswahl, Currys, Gemüse, Bowls, Suppen, Sandwiches, Smoothies&Säfte",
+      "geoCoordinates": {
+        "latitude": 47.3826828,
+        "longitude": 8.5438847
+      }
+  },
+  {
+      "name": "Klara's Kitchen Take Away",
+      "adresse": "Universitätstrasse 17, 8006, Zürich",
+      "preis": null,
+      "erhältlich": [
+        "vegetarisch",
+        "vegan"
+      ],
+      "website": "https://www.klaraskitchen.ch/",
+      "notes": "Süsses Café&Take Away mit grosser Auswahl, Currys, Gemüse, Bowls, Suppen, Sandwiches, Smoothies&Säfte",
+      "geoCoordinates": {
+        "latitude": 47.3862,
+        "longitude": 8.5443
+      }
+  },
+  {
+      "name": "Tadka",
+      "adresse": "Ackerstrasse 56, 8005 Zürich",
+      "preis": null,
+      "erhältlich": [
+        "vegetarisch",
+        "vegan"
+      ],
+      "website": "https://tadka.ch/",
+      "notes": "Indische Küche, grosse Auswahl an vegetarischen und veganen Gerichten",
+      "geoCoordinates": {
+
+        "latitude":47.3830 ,
+        "longitude":8.535 
+      }
+  } 
+]

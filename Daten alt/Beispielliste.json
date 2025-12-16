@@ -1,0 +1,55 @@
+[
+  {
+    "name": "The Sacred Vegelateria",
+    "addresse": "Kalkbreitestrasse 33, 8003 Zürich",
+    "preis": "8–14",
+    "erhältlich": ["vegi", "vegan", "glutenfrei"],
+    "website": "https://thesacred.ch",
+    "notes": "100% veganes Restaurant mit Bowls, Wraps, Smoothies. Gute Take-Away-Optionen."
+  },
+
+  {
+    "name": "Paninoteca La Penisola",
+    "addresse": "Ankerstrasse 38, 8004 Zürich",
+    "preis": "6–9",
+    "erhältlich": ["vegi", "vegan"],
+    "website": "https://www.lapenisola.ch",
+    "notes": "Take Away&Panini-Bar, italienische Snacks; schnell und günstig, ideal für Mittag."
+  },
+
+  {
+    "name": "Mai Wok",
+    "addresse": "Birmensdorferstrasse 140, 8003 Zürich",
+    "preis": "7–11",
+    "erhältlich": ["vegi", "vegan"],
+    "website": "https://de.restaurantguru.com/Mai-Wok-Zurich",
+    "notes": "Asiatischer Take-Away mit Reis- und Nudelgerichten; preiswerte vegane Optionen."
+  },
+
+  {
+    "name": "Little Thai",
+    "addresse": "Bertastrasse 3, 8003 Zürich",
+    "preis": "8–12",
+    "erhältlich": ["vegi", "vegan"],
+    "website": "https://www.mylittlethai.ch/menu",
+    "notes": "Thai Take-Away, Tofu-Curry schon ab ca. 8.50 CHF, grosse Portionen."
+  },
+
+  {
+    "name": "Schmido Mezzerie Libanaise",
+    "addresse": "Schmiede Wiedikon, Birmensdorferstrasse 129, 8003 Zürich",
+    "preis": "8–15",
+    "erhältlich": ["vegi", "vegan", "glutenfrei"],
+    "website": "https://schmido.ch",
+    "notes": "Libanesische Mezze, Falafel, Hummus, vegane Wraps; ideal zum Mitnehmen."
+  },
+  
+  {
+    "name": "Bäckerei Hug Schmiede Wiedikon",
+    "addresse": "Schmiede Wiedikon, Birmensdorferstrasse 129, 8003 Zürich",
+    "preis": "5–8",
+    "erhältlich": ["vegi", "glutenfrei"],
+    "website": "https://filialen.baeckerei-hug.ch/",
+    "notes": "Bäckerei; Brote, Sandwiches, Suppen und Salate"
+  }
+]

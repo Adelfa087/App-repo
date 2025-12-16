@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "ead",
+    "slug": "my-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/order-food.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/images/order-food.png",
+        "backgroundImage": "./assets/images/order-food.png",
+        "monochromeImage": "./assets/images/order-food.png"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false,
+      "package": "com.adelfa.myapp",
+      "config": {
+      "googleMaps": {
+       "apiKey": "AIzaSyCCNThm0XjEEAkZx4y1QdoeKFuS62XthPc" //ist von der Karte, nicht die Google Places API, brauche
+      }
+      }
+    },
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "06a9f4a8-70a6-491d-a4c8-6e313c1337f1"
+      }
+    },
+    "owner": "adelfa"
+  }
+}
